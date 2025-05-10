@@ -23,7 +23,7 @@ body {
 }
 
 
-/* .poster-title {
+.poster-title {
     font-size: 3.5rem;
     color: #ffee02;
     text-shadow: 5px 5px #a18700a8;
@@ -31,7 +31,7 @@ body {
     flex:1;
     letter-spacing: 2px;
     line-height: 1.4;
-} */
+}
 
 .section {
     padding: 60px 0;
